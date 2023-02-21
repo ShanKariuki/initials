@@ -18,3 +18,14 @@ S     S
   SSS
 """
 print(name)
+#Second initial as a block letter
+name= """
+  K     K
+  K    K
+  K  K
+  K K
+  K   K
+  K      K
+  K        K
+"""
+print(name)
