@@ -8,7 +8,7 @@ print(" s    s  k   k ")
 print("   sss   k     k")
 print()
 #first initial as a block letter
-#storing string in a variable using tripple quotes marks:multi-line string
+#storing string in a variable using tripple quote-marks:multi-line string
 name= """
   SSS
 S    S
